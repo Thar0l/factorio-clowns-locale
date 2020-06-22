@@ -2,3 +2,8 @@
 Version: 0.0.1
 Date: 2020-04-29
   First version of mod
+
+Version: 0.0.2
+Date: 2020-06-22
+  Added support for MadClowns01 Extended Minerals.
+  Small fixes.
